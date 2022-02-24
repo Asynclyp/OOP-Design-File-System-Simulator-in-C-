@@ -1,0 +1,11 @@
+﻿  CatCommand.cpp
+C:\Users\ldzlyp\source\repos\cse332s-fl21-wustl\oop_work-kevin_kia_spark\SharedCode\CatCommand.cpp(6,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ldzlyp\source\repos\cse332s-fl21-wustl\oop_work-kevin_kia_spark\SharedCode\CatCommand.cpp(16,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  DisplayCommand.cpp
+C:\Users\ldzlyp\source\repos\cse332s-fl21-wustl\oop_work-kevin_kia_spark\SharedCode\DisplayCommand.cpp(6,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ldzlyp\source\repos\cse332s-fl21-wustl\oop_work-kevin_kia_spark\SharedCode\DisplayCommand.cpp(18,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  TouchCommand.cpp
+C:\Users\ldzlyp\source\repos\cse332s-fl21-wustl\oop_work-kevin_kia_spark\SharedCode\TouchCommand.cpp(6,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ldzlyp\source\repos\cse332s-fl21-wustl\oop_work-kevin_kia_spark\SharedCode\TouchCommand.cpp(18,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Lab5.vcxproj -> C:\Users\ldzlyp\source\repos\cse332s-fl21-wustl\oop_work-kevin_kia_spark\Lab5\x64\Debug\Lab5.exe

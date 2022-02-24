@@ -1,0 +1,15 @@
+﻿  BasicDisplayVisitor.cpp
+  CommandPrompt.cpp
+  ImageFile.cpp
+C:\Users\ldzlyp\source\repos\cse332s-fl21-wustl\oop_work-kevin_kia_spark\SharedCode\ImageFile.cpp(11,25): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  MetadataDisplayVisitor.cpp
+  PasswordProxy.cpp
+  SimpleFileFactory.cpp
+C:\Users\ldzlyp\source\repos\cse332s-fl21-wustl\oop_work-kevin_kia_spark\SharedCode\SimpleFileFactory.cpp(10,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  SimpleFileSystem.cpp
+  TextFile.cpp
+C:\Users\ldzlyp\source\repos\cse332s-fl21-wustl\oop_work-kevin_kia_spark\SharedCode\TextFile.cpp(9,25): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  TouchCommand.cpp
+  Studio21.cpp
+  Generating Code...
+  Studio21.vcxproj -> C:\Users\ldzlyp\source\repos\cse332s-fl21-wustl\oop_work-kevin_kia_spark\Studio21\x64\Debug\Studio21.exe

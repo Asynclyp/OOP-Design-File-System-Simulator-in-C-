@@ -1,0 +1,9 @@
+﻿  ImageFile.cpp
+C:\Users\ldzlyp\source\repos\cse332s-fl21-wustl\oop_work-kevin_kia_spark\SharedCode\ImageFile.cpp(11,25): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  SimpleFileSystem.cpp
+  TextFile.cpp
+C:\Users\ldzlyp\source\repos\cse332s-fl21-wustl\oop_work-kevin_kia_spark\SharedCode\TextFile.cpp(9,25): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Studio17.cpp
+C:\Users\ldzlyp\source\repos\cse332s-fl21-wustl\oop_work-kevin_kia_spark\Studio17\Studio17\Studio17.cpp(30,6): error C2039: 'createFile': is not a member of 'SimpleFileSystem'
+C:\Users\ldzlyp\source\repos\cse332s-fl21-wustl\oop_work-kevin_kia_spark\SharedCode\SimpleFileSystem.h(6): message : see declaration of 'SimpleFileSystem'
+  Generating Code...

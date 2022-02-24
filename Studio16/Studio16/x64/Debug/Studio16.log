@@ -1,0 +1,3 @@
+﻿  TextFile.cpp
+C:\Users\ldzlyp\source\repos\cse332s-fl21-wustl\oop_work-kevin_kia_spark\SharedCode\TextFile.cpp(9,25): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Studio16.vcxproj -> C:\Users\ldzlyp\source\repos\cse332s-fl21-wustl\oop_work-kevin_kia_spark\Studio16\x64\Debug\Studio16.exe

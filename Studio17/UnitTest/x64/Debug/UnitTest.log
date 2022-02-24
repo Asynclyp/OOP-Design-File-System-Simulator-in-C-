@@ -1,0 +1,5 @@
+﻿  UnitTest.cpp
+C:\Users\ldzlyp\Source\Repos\cse332s-fl21-wustl\oop_work-kevin_kia_spark\SharedCode\TextFile.cpp(9,25): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\ldzlyp\Source\Repos\cse332s-fl21-wustl\oop_work-kevin_kia_spark\SharedCode\ImageFile.cpp(11,25): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+     Creating library C:\Users\ldzlyp\source\repos\cse332s-fl21-wustl\oop_work-kevin_kia_spark\Studio17\x64\Debug\UnitTest.lib and object C:\Users\ldzlyp\source\repos\cse332s-fl21-wustl\oop_work-kevin_kia_spark\Studio17\x64\Debug\UnitTest.exp
+  UnitTest.vcxproj -> C:\Users\ldzlyp\source\repos\cse332s-fl21-wustl\oop_work-kevin_kia_spark\Studio17\x64\Debug\UnitTest.dll
