@@ -1,6 +1,6 @@
 # OOP-Design-File-System-Simulator-in-C | 11/2021 to 12/2022
 
-IMPORTANT: All codes are in the Shared-code folder.
+IMPORTANT: All codes are in the SharedCode folder.
 
 - A simulated file system that stores and manages text and image files.
 - Uses interface inheritance and abstract factory pattern to support extensibility and flexibility.
